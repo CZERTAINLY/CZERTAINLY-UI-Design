@@ -5,4 +5,4 @@ title: "Access Control - Role details redesign"
 description: >
   Redesigned the Access Control - Role details page, Edit Role page, Delete Role popup, The Role Users page, The Role Permissions page, and Edit Object Level Permissions popup using components from your Tailwind library. You can copy this into your file.
 public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=223-10737&t=3mpksGOsJfdpmCLZ-1"
-pr_number: 6
+pr_number: 7

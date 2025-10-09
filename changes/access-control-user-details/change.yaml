@@ -5,4 +5,4 @@ title: "Access Control - User details redesign"
 description: >
   Redesigned the Access Control - User details page, Edit user page, and Delete User popup and Row editing feature, using components from your Tailwind library. You can copy this into your file.
 public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=223-10734&t=3mpksGOsJfdpmCLZ-1"
-pr_number: 6
+pr_number: 7
