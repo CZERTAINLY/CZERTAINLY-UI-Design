@@ -1,0 +1,47 @@
+id: listing-certificates
+extends: listing-template
+date: 2025-11-14T13:10
+author: "@Dmytro-Yatsenko"
+title: "Certificates Listing Page"
+description: "Configuration for the Certificates module based on the unified Listing Page Template (ref: PR #18)."
+pr_number: 20
+
+filters:
+  - name: Filter Field Source
+  - name: Filter Field
+  - name: Filter Condition
+  - name: Filter Value
+  - name: Include archived (toggle)
+
+columns:
+  - name: State
+  - name: Validation
+  - name: Compliance
+  - name: Common Name
+  - name: Valid From
+  - name: Expires At
+  - name: Groups
+  - name: RA Profile
+  - name: Owner
+  - name: Serial Number
+  - name: Signature Algorithm
+  - name: Public Key Algorithm
+  - name: Issuer Common Name
+  - name: Certificate Type
+  - name: Archived
+
+bulk_actions:
+  - name: Delete
+    icon: trash
+  - name: Upload Certificate
+    icon: upload
+  - name: Update Group
+    icon: users
+  - name: Update Owner
+    icon: user
+  - name: Update RA Profile
+    icon: id-badge
+  - name: Download
+    icon: download
+  - name: Archive / Unarchive
+    icon: archive

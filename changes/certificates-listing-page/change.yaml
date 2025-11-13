@@ -1,0 +1,9 @@
+id: certificates-listing-page
+date: 2025-11-13T13:05
+author: "@Dmytro-Yatsenko"
+title: "Certificates listing page based on Listing Page Template"
+description: >
+  Aligns the Certificates listing page with the unified Listing Page Template (ref: PR #18)
+  and introduces a module-level YAML describing filters, columns and bulk actions.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=2787-15437&t=TxGPxmU4C8lKnjmF-0"
+pr_number: 20
