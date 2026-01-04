@@ -1,6 +1,6 @@
 # CZERTAINLY-UI-Design
 
-[![View in Figma](https://img.shields.io/badge/Figma-Open%20File-purple)](https://www.figma.com/design/qGPoVDkYFM9j7GFbkJK5uu/Main)
+[![View in Figma](https://img.shields.io/badge/Figma-Open%20File-purple)](https://www.figma.com/design/eK0Jt2nOMS3d0Mr5YxiWd1/Main)
 
 This repo tracks UI changes to CZERTAINLY’s Figma library via change-YAML files—no binary blobs here.
 
@@ -14,8 +14,8 @@ The following design files are available:
 
 | Design File | Short Description |
 |-------------|-------------------|
-| [Main](https://www.figma.com/design/qGPoVDkYFM9j7GFbkJK5uu/Main) | Main design file for the CZERTAINLY UI |
-| [Components Library](https://www.figma.com/design/Z2ZXpUFRa26L7NTLt5ufhe/Component-Library) | Library file containing design components used |
+| [Main](https://www.figma.com/design/eK0Jt2nOMS3d0Mr5YxiWd1/Main) | Main design file for the CZERTAINLY UI |
+| [Components Library](https://www.figma.com/design/SK5DAELknALKcq2jjfEQ1V/Components-Library) | Library file containing design components used |
 
 All files have public access and they can be saved as a local copy.
 Direct manipulation is prohibited and we do not provide other access to design files due to open source nature of the project.
